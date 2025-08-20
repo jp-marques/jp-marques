@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hey!%20I'm%20João%20Pedro%20Marques%20👋&fontSize=36&animation=fadeIn&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=0:ff0000,50:cc0000,100:990000&text=Hey!%20I'm%20João%20Pedro%20Marques%20👋&reversal=false&textBg=false&fontAlign=50&fontColor=ffffff&animation=fadeIn&fontSize=40&fontAlignY=50)
+
 
 ## 👨‍💻 About Me
 I’m a recent Computer Science graduate who enjoys taking ideas from concept to code.  
@@ -21,7 +22,8 @@ My projects range from mobile apps to AI-powered tools, and I like mixing differ
 ## 🌟 Featured Projects
 <p align="left">
 <a href="https://github.com/jp-marques/CarPriceAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-marques&repo=CarPriceAI&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-marques&repo=CarPriceAI&theme=github_dark&cache_bust=1" />
+
 </a>
 <a href="https://github.com/jp-marques/timed-doodle-challenge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-marques&repo=timed-doodle-challenge&theme=github_dark" />
@@ -37,9 +39,13 @@ My projects range from mobile apps to AI-powered tools, and I like mixing differ
 
 ---
 
-## 🔨 Currently Working On
-- 🎵 **Enigma** — a Letterboxd-style social app for tracking, rating, and reviewing music   
-- 📅 **Scheduling Portal** — a tool that connects managers and employees to coordinate shifts, availability, and approvals
+### 🔨 Currently Working On  
+
+🎶 **Enigma**  
+A Letterboxd-style social app for tracking, rating, and reviewing music  
+
+🗓️ **Scheduling Portal**  
+A tool that connects managers and employees to coordinate shifts, availability, and approvals  
 
 ---
 
@@ -51,4 +57,4 @@ My projects range from mobile apps to AI-powered tools, and I like mixing differ
 </p>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:990000,50:cc0000,100:ff0000)
