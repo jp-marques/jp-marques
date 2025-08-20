@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=0:ff0000,50:cc0000,100:990000&text=Hey!%20I'm%20João%20Pedro%20Marques%20👋&reversal=false&textBg=false&fontAlign=50&fontColor=ffffff&animation=fadeIn&fontSize=40&fontAlignY=50)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=0:ff0000,50:cc0000,100:990000&text=Hey!%20I'm%20Joao%20Pedro%20Marques%20👋&reversal=false&textBg=false&fontAlign=50&fontColor=ffffff&animation=fadeIn&fontSize=40&fontAlignY=50)
 
 
 ## 👨‍💻 About Me
