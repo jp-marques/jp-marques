@@ -39,22 +39,20 @@ My projects range from mobile apps to AI-powered tools, and I like mixing differ
 
 ---
 
-### 🔨 Currently Working On  
+## 🔨 Currently Working On  
 
-🎶 **Enigma**  
-A Letterboxd-style social app for tracking, rating, and reviewing music  
+🎵 **Enigma**  
+A social app like Letterboxd, but for music — track, rate, and share what you’re listening to.  
 
-🗓️ **Scheduling Portal**  
-A tool that connects managers and employees to coordinate shifts, availability, and approvals  
+📅 **Scheduling Portal**  
+A lightweight tool that connects managers with employees to make shift coordination smoother.  
 
 ---
 
 ## 🌍 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/jp-marques2125"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:joaopedrogmarques@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://drive.google.com/file/d/1PIiYo39z38LN2ElUV8Aw-BmPkR7xy5xT/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:990000,50:cc0000,100:ff0000)
