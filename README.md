@@ -15,25 +15,31 @@ My projects range from mobile apps to AI-powered tools, and I like mixing differ
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 <p align="left">
+<a href="https://github.com/jp-marques/financial-sentiment-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-marques&repo=financial-sentiment-analysis&theme=github_dark" />
+</a>
 <a href="https://github.com/jp-marques/CarPriceAI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-marques&repo=CarPriceAI&theme=github_dark&cache_bust=1" />
-
 </a>
+<br/>
 <a href="https://github.com/jp-marques/timed-doodle-challenge">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-marques&repo=timed-doodle-challenge&theme=github_dark" />
+</a>
+<a href="https://github.com/jp-marques/TrafficFlowDetector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-marques&repo=TrafficFlowDetector&theme=github_dark" />
 </a>
 <br/>
 <a href="https://github.com/jp-marques/BloomBotanica">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-marques&repo=BloomBotanica&theme=github_dark" />
-</a>
-<a href="https://github.com/jp-marques/TrafficFlowDetector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jp-marques&repo=TrafficFlowDetector&theme=github_dark" />
 </a>
 </p>
 
@@ -55,4 +61,3 @@ A lightweight tool that connects managers with employees to make shift coordinat
   <a href="mailto:joaopedrogmarques@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://drive.google.com/file/d/1PIiYo39z38LN2ElUV8Aw-BmPkR7xy5xT/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
-
