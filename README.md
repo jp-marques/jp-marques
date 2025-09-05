@@ -81,5 +81,5 @@ A lightweight tool that connects managers with employees to make shift coordinat
 <p align="left">
   <a href="https://linkedin.com/in/jp-marques2125"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:joaopedrogmarques@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/12QoGcTDn-VajBHP8KiDoi4Kdn5JxyDc-/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1YEjAs7l0WnBeGaI7FTWJIHVzkWwmPXRK/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
 </p>
